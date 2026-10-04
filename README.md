@@ -2,6 +2,8 @@
 
 An independent, buildless CSS property reference and playground.
 
+https://pythonidaer.github.io/css-lab/
+
 ## Catalog
 
 - 901 unique catalog entries across 27 categories.
