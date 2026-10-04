@@ -48,3 +48,5 @@ The next pass is a full run-through, not a visual redesign yet.
 - Explain each property in the context of the HTML it applies to.
 - Consider an HTML tab that shows the CSS declaration inside the example, and whether Example HTML should move there.
 - Simplify the presentation in a Feynman style: shorter and clearer, without dropping the understanding that matters.
+
+Many properties belong to more than one topic. Flexbox, tables, and the other categories can each be missing a property that only shows up when it is filed there, or that only has an effect with a particular HTML structure and with other CSS set alongside it. Whether a value works also depends on the browser. Those conditions multiply, so later passes should test the important crossings rather than every possible pairing. The items above are the start of that work.
