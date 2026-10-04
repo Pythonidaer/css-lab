@@ -1,0 +1,17 @@
+CSS LAB
+
+Contains 901 property entries across 27 categories.
+
+1. Extract the ZIP.
+2. Open dist/index.html in your browser.
+
+No installation or build step is required.
+
+For a local server (with Python installed):
+  cd dist
+  python3 -m http.server 8000
+Then visit http://localhost:8000
+
+The dist folder is the complete deployable website.
+README.md explains the catalog, limitations, and sources.
+The JSON and Python files allow you to regenerate the catalog.
